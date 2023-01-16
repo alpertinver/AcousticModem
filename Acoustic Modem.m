@@ -1,7 +1,4 @@
-%% Communication Systems-1 TERM PROJECT
-%  Acoustic Modem
-%  Batuhan ÖZKAN     05180000432
-%  Alper ALPASLAN    05190000480
+%% ACOUSTIC MODEM IN MATLAB
 
 
 %% Configuration
